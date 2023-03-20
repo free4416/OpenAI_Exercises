@@ -17,5 +17,6 @@ pip install --upgrade yt-dlp
 
 
 
-https://www.youtube.com/watch?v=hdhZwyf24mE  
-https://www.youtube.com/watch?v=Bf-dbS9CcRU  
+OpenAI GPT4 소개 : https://www.youtube.com/watch?v=hdhZwyf24mE  
+Copilot office365 소개 : https://www.youtube.com/watch?v=Bf-dbS9CcRU  
+Copilot office365 소개(Cnet요약) : https://www.youtube.com/watch?v=VqhDnaqhnd4
