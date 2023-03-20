@@ -1,7 +1,7 @@
 <?php
 
 class ApiModel {
-    private $openai_api_key = "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";
+    private $openai_api_key = "OPEN_AI_API_KEY";
 
     public function downloadAudio($videoUrl) {
         $videoId = $this->getVideoIdFromUrl($videoUrl);
