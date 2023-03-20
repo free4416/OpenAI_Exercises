@@ -13,3 +13,9 @@ pip install --upgrade pip
 - yt-dlp 설치  
 pip install yt-dlp  
 pip install --upgrade yt-dlp  
+
+
+
+
+https://www.youtube.com/watch?v=hdhZwyf24mE  
+https://www.youtube.com/watch?v=Bf-dbS9CcRU  
